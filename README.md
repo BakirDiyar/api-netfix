@@ -1,5 +1,11 @@
-##Api netflix images
+## Api netflix images
 
-#small api of record of movie posters seen in netflix
+small api of record of movie posters seen in netflix
 
-#npm i  -  api base http://localhost:9000
+# installation
+
+npm i  
+
+# api base 
+
+http://localhost:9000
